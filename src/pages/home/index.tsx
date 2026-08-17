@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { Layout } from "../../layout";
-import salasHeadshot from "../../assets/salas_pfp.jpg";
+import salasHeadshot from "../../assets/salas_pfp_asa.jpg";
 
 import "./home.css";
 
